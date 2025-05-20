@@ -8,7 +8,8 @@ public class validParenthesis {
         for(int i=0; i<str.length(); i++){
             if (str.charAt(i) == '(' || str.charAt(i) == '{' || str.charAt(i) == '[') {
                 ch.push(str.charAt(i));
-            }else if ((str.charAt(i) == ')' || str.charAt(i) == '}' || str.charAt(i) == ']')) {
+            }
+            else if ((str.charAt(i) == ')' || str.charAt(i) == '}' || str.charAt(i) == ']')) {
                 if(ch.isEmpty()){//self determined
                     return false;
                 }
