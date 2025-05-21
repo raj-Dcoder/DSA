@@ -9,7 +9,7 @@ public class quickSort{
     private static void quickSort(int[] arr, int si, int ei){
         //step 1: select pivot as last element
         //step 2: partition 
-        partition(arr,)
+        // partition(arr,)
 
     }
     public static void main(String[] args) {

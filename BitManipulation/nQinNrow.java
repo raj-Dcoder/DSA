@@ -1,3 +1,5 @@
+package BitManipulation;
+
 public class nQinNrow {
     public static boolean isSafe(char board[][], int row, int col) {
         // vertical up
