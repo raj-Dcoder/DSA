@@ -1,6 +1,5 @@
 //{ Driver Code Starts
     import java.io.*;
-    import java.util.*;
     
     class DLLNode {
         int data;

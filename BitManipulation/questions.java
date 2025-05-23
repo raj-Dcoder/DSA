@@ -1,8 +1,5 @@
 package BitManipulation;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class questions {
 
     // what is the value of x^x for any value x?
@@ -76,6 +73,6 @@ public class questions {
         // System.out.println(add1(1022));
         // System.out.println(uppercaseToLowercaseWithoutBit("RAJVEER"));
 
-        List<String> list = new ArrayList<>();
+        // List<String> list = new ArrayList<>();
     }
 }

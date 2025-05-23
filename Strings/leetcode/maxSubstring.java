@@ -19,7 +19,7 @@ public class maxSubstring {
     public static void main(String[] args) {
         String str = "abcabcbb";
         
-        // System.out.println(lengthOfLongestSubstring(str));
+        System.out.println(lengthOfLongestSubstring(str));
 
         int[] charIndex = new int[128];
         Arrays.fill(charIndex,-1);
